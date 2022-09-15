@@ -8,11 +8,11 @@ XControl可判斷輸入訊號並依常開常閉設定給出電磁閥狀態並進
 
 參考[Xcontrol與Xnode的說明與簡單程式撰寫(LabVIEW筆記)](https://youtu.be/Cye2YCLNnss)
 
-[介面連結](https://github.com/acain000/labview-/tree/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E4%BB%8B%E9%9D%A2)
+[介面連結](https://github.com/acain000/labview-/new/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E4%BB%8B%E9%9D%A2)
 
-[說明連結](https://github.com/acain000/labview-/tree/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E8%AA%AA%E6%98%8E)
+[說明連結](https://github.com/acain000/labview-/new/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E8%AA%AA%E6%98%8E)
 
-[設定連結](https://github.com/acain000/labview-/tree/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E8%A8%AD%E5%AE%9A)
+[設定連結](https://github.com/acain000/labview-/new/main/%E9%9B%BB%E7%A3%81%E9%96%A5#%E8%A8%AD%E5%AE%9A)
 
 
 ## 介面
